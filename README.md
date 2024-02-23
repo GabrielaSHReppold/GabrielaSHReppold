@@ -7,7 +7,7 @@
 
 
 😎 During my free time, I enjoy reading, gaming, and engaging in conversations!<br> 
-💪 I'm currently undergoing a career transition from graduating in Pedagogy with two specializations to the IT sector.<br>
+💪 I am currently in the process of transitioning careers from being a graduate in Pedagogy with two specializations to the IT. <br>
 👩‍💻 Nowadays, I'm studying Full-Stack Web Development with Growdev and Information Systems at Unissinos.<br>
 😊 I have an intermediate level in Spanish and advanced skills in English.<br> 
 💻 In Growdev's Starter program, I'm learning HTML, along with Git and GitHub tools.<br>
