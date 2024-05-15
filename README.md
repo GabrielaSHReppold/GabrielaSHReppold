@@ -13,19 +13,16 @@
 😎 During my free time, I enjoy reading, gaming, and engaging in conversations!<br> 
 💪 I am currently in the process of transitioning careers from being a graduate in Pedagogy with two specializations to the IT. <br>
 👩‍💻 Nowadays, I'm studying Full-Stack Web Development with Growdev and Information Systems at Unisinos.<br>
-😊 I have an intermediate level in Spanish and advanced skills in English.<br> 
-💻 In Growdev's Starter program, I'm learning HTML, along with Git and GitHub tools.<br>
+😊 I have advanced skills in English.<br> 
+💻 In Growdev's Starter program, I'm learning programming logic, javascript, API
+Rest, NodeJS, Express,.<br>
 
 <HR>
 
-### 🛠 &nbsp;Tech Stack
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;<br>
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-<BR><HR>
+### 🛠 &nbsp;
+
+
+<HR>
 
 ### By the way here are some of my statistics 🚀
 ![GabiDiary's github stats](https://github-readme-stats.vercel.app/api?username=GabrielaSHReppold&show_icons=true&theme=tokyonight)
