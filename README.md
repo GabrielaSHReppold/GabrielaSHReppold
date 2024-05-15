@@ -53,3 +53,5 @@ Rest, NodeJS, Express.<br>
 ![GabiDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaSHReppold&theme=tokyonight&layout=compact)
 
 <img align="right" width="375" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+
+"Como pode um cara escrever uma coisa que eu não entenda? Não tem como! Eu vou ler aquela m**** até entender!", Clóvis de Barros Filho.
